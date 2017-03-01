@@ -1,0 +1,1 @@
+The root file included on this folder, is the cronjob that has been setup to auto renew the letsencrypt certificate.

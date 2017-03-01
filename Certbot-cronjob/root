@@ -1,0 +1,1 @@
+30 09,16 * * * /home/ec2-user/Source/certbot-auto renew --quiet && service nginx restart
